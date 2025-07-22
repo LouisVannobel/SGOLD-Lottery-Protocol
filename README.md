@@ -42,5 +42,3 @@ forge coverage
 2. Run `forge build` and `forge test` to verify contracts and tests.
 3. Review and adapt deployment scripts as needed.
 
----
-MIT License
